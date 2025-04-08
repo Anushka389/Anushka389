@@ -11,7 +11,7 @@
 ### 👩‍💻 About Me :
 - 🔭 Currently learning Full Stack Development  
 - 💡 Exploring new technologies and building cool stuff  
-- 🎓 Computer Science Student | Machine Learning Explorer  
+- 🎓 Computer Science Student | AI powered websites  
 - 💼 Full Stack Web Developer | React Native Enthusiast  
 - 💖 Anime & Coffee Lover  
 - ✨ Fun Fact: Anime + Code = Perfect Day  
