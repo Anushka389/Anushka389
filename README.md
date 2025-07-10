@@ -5,8 +5,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.dreamstime.com/b/african-girl-gamer-streamer-cat-ears-headset-sits-front-computer-her-mouse-keyboard-cartoon-anime-style-vector-271180843.jpg?w=768" />
-https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gi
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"?w=768" />
+
 - 🔭 &nbsp; I’m currently learning Full Stack Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming, and Machine Learning.
