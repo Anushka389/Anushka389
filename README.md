@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/" width="29">Hey there, I'm Anushka Shukla.</h1>
+<h1 align="center"><img src="https://img.freepik.com/premium-photo/girl-coding-desk-modern-digital-illustration-white-background-embracing-technology_1164591-56.jpg" width="29">Hey there, I'm Anushka Shukla.</h1>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
