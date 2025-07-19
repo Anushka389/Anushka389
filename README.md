@@ -1,11 +1,14 @@
 
 
 
-<h1 align="center"><img src="https://img.freepik.com/premium-photo/girl-coding-desk-modern-digital-illustration-white-background-embracing-technology_1164591-56.jpg" width="29">Hey there, I'm Anushka Shukla.</h1>
+<h1 align="center">
+  <img src="https://img.freepik.com/premium-photo/girl-coding-desk-modern-digital-illustration-white-background-embracing-technology_1164591-56.jpg" width="29">
+  Hey there, I'm Anushka Shukla.
+</h1>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"?w=768" />
+<img align="right" alt="Coder GIF" height="250" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 🔭 &nbsp; I’m currently learning Full Stack Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
