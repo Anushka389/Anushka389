@@ -8,7 +8,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-<img align="right" alt="Coder GIF" height="250" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coder GIF" height="250" width="350" src="https://img.freepik.com/premium-photo/anime-girl-with-headphones-laptop-generative-ai_1108314-5149.jpg" />
 
 - 🔭 &nbsp; I’m currently learning Full Stack Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
